@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kyriefly/kyriefly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// github - stats
-https://github-readme-stats.vercel.app/api?username=kyriefly&theme=dark&show_icons=true
-// most - used-language
-https://github-readme-stats.vercel.app/api/top-langs/?username=kyriefly&layout=compact&hide=html&theme=dark
-// total - contribution
-https://github-readme-streak-stats.herokuapp.com/?user=kyriefly&theme=highcontrast
+
